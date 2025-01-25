@@ -73,6 +73,21 @@ You can download the dataset from [MovieLens 100K](https://grouplens.org/dataset
   Collaborative Filtering:
       Open and execute Collaborative_Filtering.ipynb for collaborative recommendations.
 
+## Sample Outputs
+   Metric Outputs from my execution:
+   # 1. Data-Exploration
+      ![image](https://github.com/user-attachments/assets/3a78fe89-82af-4515-a197-b563c0af485d)
+      ![image](https://github.com/user-attachments/assets/2ac865fc-c1ba-4251-8bee-ad175b5b9f34)
+      ![image](https://github.com/user-attachments/assets/bf19e3e7-6b06-4af8-98d8-fe609e5c1b65)
+
+   # 2. Content-Filtering
+      ![image](https://github.com/user-attachments/assets/863da30e-f2ac-4ce2-bc47-d5bd8a899846)
+      
+   # 3. Collaborative-Filtering
+      ![image](https://github.com/user-attachments/assets/f35fb09d-8413-4bf6-b8e6-f17987a9a124)
+      ![image](https://github.com/user-attachments/assets/3be62853-9ab2-44db-b1cb-16764edcd251)
+      ![image](https://github.com/user-attachments/assets/492b7b7b-7797-4de3-b5e3-38ecec47ab7e)
+
 
 ## Future Scope
   This project has the potential to expand with more advanced features:
