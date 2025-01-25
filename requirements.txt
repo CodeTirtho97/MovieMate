@@ -1,0 +1,21 @@
+# Core Libraries
+pandas==1.5.3
+numpy==1.24.2
+
+# Visualization
+matplotlib==3.7.1
+plotly==5.15.0
+
+# Machine Learning and Similarity Calculations
+scikit-learn==1.2.2
+scipy==1.10.1
+
+# Web Frameworks (if using Flask or Django)
+Flask==2.2.3
+dash==2.9.3
+gunicorn==20.1.0
+# Uncomment below if using Django instead of Flask
+# Django==4.2
+
+# Other Utilities
+jupyter==1.0.0  # For Jupyter Notebooks
