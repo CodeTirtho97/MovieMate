@@ -59,6 +59,10 @@ You can download the dataset from [MovieLens 100K](https://grouplens.org/dataset
 
 3. Download the MovieLens 100K dataset, extract it, and place the files in a folder named data inside the project directory.
 
+4. Run the project by executing below command in project directory:
+   ```bash
+   python main.py
+
 ---
 
 ## 🌳 Project Structure
