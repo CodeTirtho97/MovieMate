@@ -1,5 +1,6 @@
 # MovieMate 🎬
-![MovieMate_poster2](https://github.com/user-attachments/assets/45a7633a-ecbe-4086-b987-0360a61734bc)
+<img width="1024" height="1024" alt="MovieMate_poster3" src="https://github.com/user-attachments/assets/a6cec1d5-371d-41e1-bc3b-f1602626ef29" />
+
 
 MovieMate is a Movie Recommendation System that leverages machine learning techniques to provide personalized movie recommendations. It incorporates both **content-based** and **collaborative filtering** approaches, allowing users to discover movies based on their tastes and preferences.
 
