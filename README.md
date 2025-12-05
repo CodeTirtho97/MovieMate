@@ -1,5 +1,4 @@
-# MovieMate - AI-Powered Movie Recommendation Engine
-
+# MovieMate 🎬
 ![MovieMate_poster2](https://github.com/user-attachments/assets/45a7633a-ecbe-4086-b987-0360a61734bc)
 
 A comprehensive movie recommendation platform built with FastAPI and Next.js, featuring multiple recommendation algorithms, interactive features, and a modern UI.
@@ -344,6 +343,10 @@ cp backup_old_files/* .
    pip install -r requirements.txt
 
 3. Download the MovieLens 100K dataset, extract it, and place the files in a folder named data inside the project directory.
+
+4. Run the project by executing below command in project directory:
+   ```bash
+   python main.py
 
 ---
 
