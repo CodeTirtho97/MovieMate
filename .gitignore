@@ -1,2 +1,191 @@
-Final Output
+# ========================================
+# Python
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ========================================
+# Virtual Environment
+# ========================================
+venv/
+env/
+ENV/
+.venv
+virtualenv/
+
+# ========================================
+# Environment Variables & Secrets
+# ========================================
+.env
+.env.local
+.env.*.local
+*.env
+.env.production
+
+# ========================================
+# IDE & Editors
+# ========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# ========================================
+# Cache Files & Runtime Data
+# ========================================
+*.json.bak
+poster_cache.json
+omdb_cache.json
+movie_battles.json
+streaming_data.json
+trivia_data.json
+cache/
+*.cache
+
+# ========================================
+# Logs
+# ========================================
+*.log
+logs/
+*.log.*
+
+# ========================================
+# Jupyter Notebook
+# ========================================
 .ipynb_checkpoints
+*.ipynb_checkpoints/
+Final Output
+
+# ========================================
+# Backup & Temporary Files
+# ========================================
+backup_old_files/
+*.bak
+*.tmp
+*.temp
+*~
+.~*
+
+# ========================================
+# Documentation Build
+# ========================================
+docs/_build/
+site/
+
+# ========================================
+# Frontend (Next.js/React)
+# ========================================
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/package-lock.json
+frontend/yarn.lock
+
+# ========================================
+# npm/yarn
+# ========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# ========================================
+# Testing
+# ========================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache
+
+# ========================================
+# Database
+# ========================================
+*.db
+*.sqlite
+*.sqlite3
+
+# ========================================
+# OS Files
+# ========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# ========================================
+# Compiled Files
+# ========================================
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.exe
+*.out
+
+# ========================================
+# Package Files
+# ========================================
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# ========================================
+# Helper Scripts (Generated)
+# ========================================
+setup.py
+verify_setup.py
+build_services.py
+
+# ========================================
+# Documentation (Generated/Temporary)
+# ========================================
+# Exclude all markdown files except README.md
+*.md
+!README.md
+
+# ========================================
+# Windows Batch Files (Generated)
+# ========================================
+run.bat
