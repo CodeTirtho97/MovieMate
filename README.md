@@ -1,5 +1,5 @@
 # MovieMate 🎬
-![MovieMate_poster2](https://github.com/user-attachments/assets/45a7633a-ecbe-4086-b987-0360a61734bc)
+<img width="1024" height="1024" alt="MovieMate_poster2" src="https://github.com/user-attachments/assets/3021e170-517c-475c-8578-0c983bdee376" />
 
 A comprehensive movie recommendation platform built with FastAPI and Next.js, featuring multiple recommendation algorithms, interactive features, and a modern UI.
 
